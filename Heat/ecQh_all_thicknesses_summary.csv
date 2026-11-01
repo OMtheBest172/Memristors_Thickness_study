@@ -1,0 +1,136 @@
+mesh,sweep,thickness_nm,voltage_V,n_samples,t_start,t_end,ecQh_mean_full_run,ecQh_peak,ecQh_mean_0_12s,run_duration_s
+Extra Fine,refined sweep 80-85 nm,80,1,1201,0,12,1.655730341e+14,3.008799022e+15,1.655730341e+14,12
+Extra Fine,refined sweep 80-85 nm,81,1,1201,0,12,1.634566947e+14,2.929093645e+15,1.634566947e+14,12
+Extra Fine,refined sweep 80-85 nm,82,1,1201,0,12,1.613969022e+14,2.85190982e+15,1.613969022e+14,12
+Extra Fine,refined sweep 80-85 nm,83,1,1201,0,12,1.569774381e+14,2.774441004e+15,1.569774381e+14,12
+Extra Fine,refined sweep 80-85 nm,84,1,1201,0,12,1.553298735e+14,2.702406375e+15,1.553298735e+14,12
+Extra Fine,refined sweep 80-85 nm,85,1,1201,0,12,1.524772566e+14,2.632426331e+15,1.524772566e+14,12
+Extra Fine,refined sweep 96-110 nm,96,1,1501,0,15,1.192159736e+14,1.998929898e+15,1.328211253e+14,15
+Extra Fine,refined sweep 96-110 nm,97,1,1501,0,15,1.171805564e+14,1.951512529e+15,1.306713806e+14,15
+Extra Fine,refined sweep 96-110 nm,98,1,1501,0,15,1.153444477e+14,1.905409937e+15,1.287374187e+14,15
+Extra Fine,refined sweep 96-110 nm,99,1,1501,0,15,1.140974294e+14,1.859271452e+15,1.276152718e+14,15
+Extra Fine,refined sweep 96-110 nm,100,1,1501,0,15,1.12809786e+14,1.816014972e+15,1.263253273e+14,15
+Extra Fine,refined sweep 96-110 nm,101,1,1501,0,15,1.111233939e+14,1.774198464e+15,1.245334101e+14,15
+Extra Fine,refined sweep 96-110 nm,102,1,1501,0,15,1.100448862e+14,1.734434217e+15,1.23546223e+14,15
+Extra Fine,refined sweep 96-110 nm,103,1,1501,0,15,1.091916323e+14,1.695684027e+15,1.227177408e+14,15
+Extra Fine,refined sweep 96-110 nm,104,1,1501,0,15,1.071734935e+14,1.657676331e+15,1.205090595e+14,15
+Extra Fine,refined sweep 96-110 nm,105,1,1501,0,15,1.059427466e+14,1.620039663e+15,1.192919539e+14,15
+Extra Fine,refined sweep 96-110 nm,106,1,1501,0,15,1.047648004e+14,1.584040054e+15,1.18057519e+14,15
+Extra Fine,refined sweep 96-110 nm,107,1,1501,0,15,1.033585315e+14,1.54731326e+15,1.166475024e+14,15
+Extra Fine,refined sweep 96-110 nm,108,1,1501,0,15,1.024314179e+14,1.513520504e+15,1.157625158e+14,15
+Extra Fine,refined sweep 96-110 nm,109,1,1501,0,15,1.014780136e+14,1.480471429e+15,1.147718329e+14,15
+Extra Fine,refined sweep 96-110 nm,110,1,1501,0,15,1.00342809e+14,1.448362262e+15,1.13628427e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.2,1501,0,15,1.857536309e+13,5.96e+13,2.094547044e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.3,1501,0,15,2.84035976e+13,1.32e+14,3.205695254e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.4,1501,0,15,3.883351099e+13,2.33e+14,4.392189842e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.5,1501,0,15,4.912998001e+13,3.63e+14,5.559733555e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.6,1501,0,15,5.979740173e+13,5.22e+14,6.770283097e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.7,1501,0,15,7.033357761e+13,7.09e+14,7.965054122e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.8,1501,0,15,7.965496336e+13,9.27e+14,9.017535387e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,0.9,1501,0,15,9.082091939e+13,1.17e+15,1.029061615e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,1,1501,0,15,1.003540306e+14,1.45e+15,1.135920899e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,1.1,1501,0,15,1.111502332e+14,1.76e+15,1.258893422e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",110,1.2,1501,0,15,1.209089274e+14,2.09e+15,1.369261449e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.2,1501,0,15,1.538752831e+13,4.03e+13,1.755543714e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.3,1501,0,15,2.4028501e+13,8.92e+13,2.755620316e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.4,1501,0,15,3.243717522e+13,1.56e+14,3.725253955e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.5,1501,0,15,4.130199867e+13,2.43e+14,4.751873439e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.6,1501,0,15,5.000026649e+13,3.48e+14,5.754204829e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.7,1501,0,15,5.901738841e+13,4.73e+14,6.796694421e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.8,1501,0,15,6.764563624e+13,6.16e+14,7.793838468e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,0.9,1501,0,15,7.607255163e+13,7.8e+14,8.757701915e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,1,1501,0,15,8.493491006e+13,9.63e+14,9.783588676e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,1.1,1501,0,15,9.288960693e+13,1.17e+15,1.069560366e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",130,1.2,1501,0,15,1.016137242e+14,1.39e+15,1.170809326e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.2,1501,0,15,1.337325117e+13,2.86e+13,1.530058285e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.3,1501,0,15,2.081562292e+13,6.33e+13,2.399721898e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.4,1501,0,15,2.851092605e+13,1.11e+14,3.298850958e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.5,1501,0,15,3.597768155e+13,1.72e+14,4.163039134e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.6,1501,0,15,4.36071952e+13,2.46e+14,5.052572856e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.7,1501,0,15,5.140739507e+13,3.33e+14,5.961307244e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.8,1501,0,15,5.903217855e+13,4.34e+14,6.855470441e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,0.9,1501,0,15,6.671032645e+13,5.48e+14,7.751099084e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,1,1501,0,15,7.417128581e+13,6.75e+14,8.617102415e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,1.1,1501,0,15,8.104230513e+13,8.17e+14,9.40877602e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",150,1.2,1501,0,15,8.877974684e+13,9.73e+14,1.032861782e+14,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.2,1501,0,15,1.189508328e+13,2.15e+13,1.356816819e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.3,1501,0,15,1.849620253e+13,4.66e+13,2.13168776e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.4,1501,0,15,2.52985543e+13,8.22e+13,2.929766861e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.5,1501,0,15,3.233677548e+13,1.27e+14,3.756178185e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.6,1501,0,15,3.923857428e+13,1.82e+14,4.557535387e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.7,1501,0,15,4.590459694e+13,2.46e+14,5.334537885e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.8,1501,0,15,5.249387075e+13,3.21e+14,6.113380516e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,0.9,1501,0,15,5.936722185e+13,4.05e+14,6.913305579e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,1,1501,0,15,6.655622918e+13,4.98e+14,7.762456286e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,1.1,1501,0,15,7.300019987e+13,6.02e+14,8.513921732e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",170,1.2,1501,0,15,7.983164557e+13,7.15e+14,9.313105745e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.2,1501,0,15,1.057944704e+13,1.66e+13,1.198989176e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.3,1501,0,15,1.658576282e+13,3.59e+13,1.905995837e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.4,1501,0,15,2.298361759e+13,6.31e+13,2.659517069e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.5,1501,0,15,2.905848101e+13,9.76e+13,3.369733555e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.6,1501,0,15,3.556242505e+13,1.39e+14,4.131865112e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.7,1501,0,15,4.155909394e+13,1.88e+14,4.836511241e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.8,1501,0,15,4.800226516e+13,2.45e+14,5.589184013e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,0.9,1501,0,15,5.388954031e+13,3.1e+14,6.281582015e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,1,1501,0,15,6.017241839e+13,3.82e+14,7.017035803e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,1.1,1501,0,15,6.623051299e+13,4.61e+14,7.725828476e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",190,1.2,1501,0,15,7.216355763e+13,5.48e+14,8.423730225e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.2,1501,0,15,9.359113924e+12,1.31e+13,1.048955037e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.3,1501,0,15,1.500303797e+13,2.84e+13,1.717108243e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.4,1501,0,15,2.09670553e+13,5e+13,2.421834305e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.5,1501,0,15,2.643791472e+13,7.71e+13,3.062989176e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.6,1501,0,15,3.219660227e+13,1.1e+14,3.734079933e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.7,1501,0,15,3.796395736e+13,1.49e+14,4.415370525e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.8,1501,0,15,4.369513658e+13,1.94e+14,5.085670275e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,0.9,1501,0,15,4.950293138e+13,2.45e+14,5.766736053e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,1,1501,0,15,5.493790806e+13,3.01e+14,6.408601166e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,1.1,1501,0,15,6.058127915e+13,3.64e+14,7.070899251e+13,15
+Extra Fine,"voltage sweep (110-210 nm, full-stack re-export)",210,1.2,1501,0,15,6.604450366e+13,4.33e+14,7.709958368e+13,15
+Extra Fine,voltage sweep (50-90 nm),50,0.2,1501,0,15,5.950439707e+13,3.06e+14,6.165370525e+13,15
+Extra Fine,voltage sweep (50-90 nm),50,0.3,1501,0,15,9.30302465e+13,6.87e+14,9.648492923e+13,15
+Extra Fine,voltage sweep (50-90 nm),50,0.4,1501,0,15,1.274403731e+14,1.22e+15,1.322964197e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,0.5,1501,0,15,1.617088608e+14,1.91e+15,1.678809326e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,0.6,1501,0,15,1.963257828e+14,2.74e+15,2.039009159e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,0.7,1501,0,15,2.321545636e+14,3.73e+15,2.414354704e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,0.8,1501,0,15,2.672618254e+14,4.85e+15,2.778184846e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,0.9,1501,0,15,3.0257495e+14,6.14e+15,3.147085762e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,1,1501,0,15,3.380499667e+14,7.58e+15,3.515512073e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,1.1,1501,0,15,3.716575616e+14,9.17e+15,3.863388843e+14,15
+Extra Fine,voltage sweep (50-90 nm),50,1.2,1501,0,15,4.06176549e+14,1.09e+16,4.22020816e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,0.2,1501,0,15,3.376262492e+13,1.6e+14,3.602639467e+13,15
+Extra Fine,voltage sweep (50-90 nm),70,0.3,1501,0,15,5.289606929e+13,3.59e+14,5.661698585e+13,15
+Extra Fine,voltage sweep (50-90 nm),70,0.4,1501,0,15,7.171192538e+13,6.37e+14,7.67856786e+13,15
+Extra Fine,voltage sweep (50-90 nm),70,0.5,1501,0,15,9.035776149e+13,9.95e+14,9.672056619e+13,15
+Extra Fine,voltage sweep (50-90 nm),70,0.6,1501,0,15,1.101973351e+14,1.43e+15,1.181228976e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,0.7,1501,0,15,1.29248501e+14,1.95e+15,1.385528726e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,0.8,1501,0,15,1.487768155e+14,2.54e+15,1.594621149e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,0.9,1501,0,15,1.672091939e+14,3.22e+15,1.792514571e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,1,1501,0,15,1.864210526e+14,3.98e+15,1.998701082e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,1.1,1501,0,15,2.059227182e+14,4.82e+15,2.208909242e+14,15
+Extra Fine,voltage sweep (50-90 nm),70,1.2,1501,0,15,2.23526982e+14,5.73e+15,2.393955037e+14,15
+Extra Fine,voltage sweep (50-90 nm),90,0.2,1501,0,15,2.354230513e+13,9.36e+13,2.59009159e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.3,1501,0,15,3.64413058e+13,2.09e+14,4.014854288e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.4,1501,0,15,4.975516322e+13,3.71e+14,5.491465445e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.5,1501,0,15,6.265056629e+13,5.79e+14,6.9132806e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.6,1501,0,15,7.583990673e+13,8.33e+14,8.371298918e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.7,1501,0,15,8.908254497e+13,1.13e+15,9.836636137e+13,15
+Extra Fine,voltage sweep (50-90 nm),90,0.8,1501,0,15,1.022499667e+14,1.48e+15,1.130134055e+14,15
+Extra Fine,voltage sweep (50-90 nm),90,0.9,1501,0,15,1.154671552e+14,1.87e+15,1.27579184e+14,15
+Extra Fine,voltage sweep (50-90 nm),90,1,1501,0,15,1.272822119e+14,2.31e+15,1.404201499e+14,15
+Extra Fine,voltage sweep (50-90 nm),90,1.1,1501,0,15,1.405407728e+14,2.8e+15,1.550888426e+14,15
+Extra Fine,voltage sweep (50-90 nm),90,1.2,1501,0,15,1.546284477e+14,3.34e+15,1.708056619e+14,15
+Extremely Fine,refined sweep 96-110 nm,96,1,1201,0,12,1.200563322e+14,1.967898898e+15,1.200563322e+14,12
+Extremely Fine,refined sweep 96-110 nm,97,1,1201,0,12,1.18873854e+14,1.920929702e+15,1.18873854e+14,12
+Extremely Fine,refined sweep 96-110 nm,98,1,1201,0,12,1.175426535e+14,1.875905065e+15,1.175426535e+14,12
+Extremely Fine,refined sweep 96-110 nm,99,1,1201,0,12,1.161754099e+14,1.832162522e+15,1.161754099e+14,12
+Extremely Fine,refined sweep 96-110 nm,100,1,1201,0,12,1.15008291e+14,1.789644521e+15,1.15008291e+14,12
+Extremely Fine,refined sweep 96-110 nm,101,1,1201,0,12,1.13519565e+14,1.748310374e+15,1.13519565e+14,12
+Extremely Fine,refined sweep 96-110 nm,102,1,1201,0,12,1.129853324e+14,1.708104585e+15,1.129853324e+14,12
+Extremely Fine,refined sweep 96-110 nm,103,1,1201,0,12,1.116826539e+14,1.669075071e+15,1.116826539e+14,12
+Extremely Fine,refined sweep 96-110 nm,104,1,1201,0,12,1.105452924e+14,1.631146701e+15,1.105452924e+14,12
+Extremely Fine,refined sweep 96-110 nm,105,1,1201,0,12,1.100314213e+14,1.594297172e+15,1.100314213e+14,12
+Extremely Fine,refined sweep 96-110 nm,106,1,1201,0,12,1.086370231e+14,1.558493931e+15,1.086370231e+14,12
+Extremely Fine,refined sweep 96-110 nm,107,1,1201,0,12,1.075869371e+14,1.523677751e+15,1.075869371e+14,12
+Extremely Fine,refined sweep 96-110 nm,108,1,1201,0,12,1.068287933e+14,1.489869007e+15,1.068287933e+14,12
+Extremely Fine,refined sweep 96-110 nm,109,1,1201,0,12,1.058010476e+14,1.45701335e+15,1.058010476e+14,12
+Extremely Fine,refined sweep 96-110 nm,110,1,1201,0,12,1.052502497e+14,1.42518251e+15,1.052502497e+14,12
