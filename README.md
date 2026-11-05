@@ -33,11 +33,14 @@ All times are in seconds, resistance in ohm, `ec.Qh` in W/m^3, thickness in nm, 
 |---|---|---|---|---|
 | Extra Fine | voltage sweep | 50, 70, 90, 110, 130, 150, 170, 190, 210 | 0.2-1.2 in steps of 0.1 | 15 s |
 | Extra Fine | refined sweep | 80-85 | 1 | 12 s |
+| Extra Fine | refined sweep | 86-95 | 1 | 15 s |
 | Extra Fine | refined sweep | 96-110 | 1 | 15 s |
+| Extremely Fine | refined sweep | 80-85 | 1 | 12 s |
+| Extremely Fine | refined sweep | 86-95 | 1 | 12 s |
 | Extremely Fine | refined sweep | 96-110 | 1 | 12 s |
 | Extra Fine | long runs (resistance only) | 110, 130, 150, 170, 190, 210 | 1 (see note) | 20 s; 40 s for 150, 170, 190, 210 |
 
-Not included, because no raw export is available: Extra Fine 86-95 nm and Extremely Fine 80-95 nm (only summary values are used in the paper).
+All Extremely Fine runs come from raw exports (the original export columns repeat their last value after 12 s; those repeated values are omitted).
 
 ### Columns of the time-series files
 
