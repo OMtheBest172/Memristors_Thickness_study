@@ -1,0 +1,7 @@
+tolerance,metric,common_to_all_voltages
+0.1,t_sw,[50]
+0.1,E_sw,[]
+0.1,heating,[210]
+0.25,t_sw,[50]
+0.25,E_sw,"[50, 70]"
+0.25,heating,"[190, 210]"

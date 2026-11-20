@@ -1,0 +1,11 @@
+R(t) dip below R(0) at 1 V over 81 runs: up to 3.7 %; the minimum occurs at t = 0.00-0.32 s
+voltage-sweep runs with a selected t_sw: 99
+  global argmax(dR/dt) differs from the selected value in 47 runs
+  argmax restricted to the first 20 % of the rise reproduces it in 77 runs; the other 22 by thickness: {50: 2, 70: 1, 90: 3, 110: 1, 130: 2, 150: 2, 170: 2, 190: 4, 210: 5}
+  automated rule within one output step (0.01 s): 70 of 99
+refined sweeps: automated rule within 0.01 s for 62 of 62 runs, identical for 82 %
+coarse 1 V: automated rule within 0.02 s for 7 of 9; larger differences: {130: (1.15, 0.44), 190: (1.54, 0.93)} (auto, selected)
+90 nm coarse vs refined (EF): t_sw 0.22 vs 0.23 s; E_sw +2.4 %; Lambda +0.01 %; t_sat 10.48 vs 10.32 s
+110 nm coarse vs refined (EF): t_sw 0.29 vs 0.29 s; E_sw +0.0 %; Lambda -0.44 %; t_sat 13.73 vs 12.92 s
+
+ec.Qh(0) as a fraction of the peak over all 161 runs: 89-100 %

@@ -1,0 +1,35 @@
+== XF relative to EF over 31 thicknesses
+  t_sw      mean 0.57  range 0.50 .. 0.69
+  E_sw      mean -38.6%  range -43.6% .. -30.2%
+  <Qh>      mean -9.1%  range -10.8% .. -7.3%
+  R_LRS     mean +0.034%  range +0.017% .. +0.047%
+  Lambda over the 19 thicknesses where both runs saturate:
+  Lambda    mean +9.6%  range +7.1% .. +11.9%
+  Spearman(t_sw, d): EF 0.84, XF 0.99
+
+== saturation statistics (99.5 % threshold)
+  EF: 29/31 reach saturation; t_sat 6.92-13.12 s; slope 0.19 s/nm; scatter about linear fit 0.80 s; not reached: [102, 107]
+      99 % threshold: 31/31 reach; t_sat 6.36-13.66 s
+  XF: 19/31 reach saturation; t_sat 8.39-10.98 s; slope 0.07 s/nm; scatter about linear fit 0.55 s; not reached: [90, 96, 100, 102, 103, 104, 105, 106, 107, 108, 109, 110]
+      99 % threshold: 24/31 reach; t_sat 7.72-10.98 s
+  XF relative slope over the last 3 s (%/s) for d >= 93 nm: 0.6 .. 2.6
+  EF t_sat scatter about linear fit with a 0.11 s median window: 0.80 s (n=29)
+  EF t_sat scatter about linear fit with a 0.21 s median window: 0.80 s (n=29)
+  EF t_sat scatter about linear fit with a 0.51 s median window: 0.81 s (n=30)
+  EF t_sat scatter about linear fit with a 1.01 s median window: 0.81 s (n=30)
+  EF 96-110 nm: 12 s mean heating exceeds the 15 s mean by 11.4-13.2 %
+
+== quadratic trends over 31 thicknesses (residual std with 3 fitted parameters)
+  EF: residual % lam 0.28, tsw 5.15, E 3.00, Q 0.55
+      trend change over 80-110 nm: lam -0.5% (1.9 sigma), tsw +43.2% (6.5 sigma), E -0.2% (0.1 sigma), Q -30.8% (68.3 sigma)
+  XF: residual % lam 0.17, tsw 2.97, E 1.94, Q 0.25
+      trend change over 80-110 nm: lam -6.8% (42.3 sigma), tsw +85.8% (21.0 sigma), E +18.8% (8.9 sigma), Q -28.7% (137.3 sigma)
+
+== ranking over 80-110 nm, objectives Lambda max; t_sw, E_sw, <Qh> min, equal weights
+  EF: raw top5 91 (0.820), 84 (0.717), 90 (0.709), 104 (0.628), 107 (0.620); Pareto-optimal 15/31
+      trend scores: 80 nm 0.603, 100 nm 0.448, 110 nm 0.501; minimum at 99 nm
+      first place under noise (4000 draws): 83 nm 4.3%, 84 nm 4.3%, 82 nm 4.0%, 85 nm 4.0%
+      EF with t_sat added (15 s for the two unsaturated runs): top5 91 (0.720), 107 (0.696), 90 (0.651), 104 (0.627), 105 (0.618)
+  XF: raw top5 86 (0.770), 80 (0.747), 85 (0.747), 84 (0.736), 83 (0.711); Pareto-optimal 26/31
+      trend scores: 80 nm 0.750, 100 nm 0.528, 110 nm 0.250; minimum at 110 nm
+      first place under noise (4000 draws): 81 nm 16.3%, 82 nm 15.3%, 80 nm 14.9%, 83 nm 14.8%

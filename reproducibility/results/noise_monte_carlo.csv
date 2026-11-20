@@ -1,0 +1,12 @@
+variant,key,value
+C,first_90nm_pct,78.78
+C,first_110nm_pct,21.22
+C,90_outranks_110_pct,78.78
+D,first_90nm_pct,96.745
+D,first_70nm_pct,1.925
+D,first_110nm_pct,1.3299999999999998
+D,90_outranks_110_pct,98.53
+N,first_90nm_pct,94.235
+N,first_110nm_pct,5.75
+N,first_70nm_pct,0.015
+N,90_outranks_110_pct,94.245
